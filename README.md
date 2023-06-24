@@ -1,4 +1,4 @@
-# python-challenge
+#### "Unlocking Insights from Financial and Election Data using Python Scripts"
 Python Scripting | Import Modules | Read &amp; Write Files | Variables, List &amp; Dictionaries | Iteration | Debugging 
 
 # Background
